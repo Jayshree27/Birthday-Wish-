@@ -64,7 +64,7 @@ p {
 .image1 {
     position: absolute;
     top: 250px;
-    right: 1000px;
+    left: auto;
     width: 500px; /* Adjust the width as needed */
     height: auto; /* Maintain aspect ratio */
 }
