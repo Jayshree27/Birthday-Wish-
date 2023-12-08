@@ -65,7 +65,7 @@ p {
     position: absolute;
     top: 250px;
     left: auto;
-    width: 500px; /* Adjust the width as needed */
+    width: 300px; /* Adjust the width as needed */
     height: auto; /* Maintain aspect ratio */
 }
 
@@ -73,8 +73,8 @@ p {
     position: absolute;
     top: 250px;
     right: 550px;
-    width: 400px; /* Adjust the width as needed */
-    height: 380px; /* Maintain aspect ratio */
+    width: 300px; /* Adjust the width as needed */
+    height: auto; /* Maintain aspect ratio */
 }
 
 .heart {
