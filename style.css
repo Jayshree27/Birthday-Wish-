@@ -64,17 +64,17 @@ p {
 .image1 {
     position: absolute;
     top: 250px;
-    right: 900px;
-    width: 400px; /* Adjust the width as needed */
+    right: 800px;
+    width: 300px; /* Adjust the width as needed */
     height: auto; /* Maintain aspect ratio */
 }
 
 .image2 {
     position: absolute;
     top: 250px;
-    right: 600px;
-    width: 300px; /* Adjust the width as needed */
-    height: 300px; /* Maintain aspect ratio */
+    right: 550px;
+    width: 200px; /* Adjust the width as needed */
+    height: 250px; /* Maintain aspect ratio */
 }
 
 .heart {
