@@ -17,7 +17,7 @@ body {
 
 @media only screen and (max-width: 620px) {
   /* For mobile phones: */
-  .image-container, .image1, .image2 {
+  .image-container, .image1, .image2, .topic {
     width: 100%;
   }
 }
