@@ -57,6 +57,7 @@ p {
 
 
 .image1 {
+    position: center;
     top: 250px;
     width: 280px;
     height: 360px;
