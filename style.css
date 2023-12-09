@@ -54,16 +54,6 @@ p {
     color: #333;
 }
 
-
-
-.image1 {
-    position: center;
-    top: 250px;
-    width: 280px;
-    height: 360px;
-    left: 500px;
-}
-
 .heart {
     z-index: 999;
     animation: heartFade 6s linear;
