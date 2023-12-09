@@ -54,6 +54,29 @@ p {
     color: #333;
 }
 
+.image-container {
+    display: flex;
+    justify-content: space-between;
+    margin: 20px;
+}
+
+
+.image1 {
+    position: absolute;
+    top: 250px;
+    right: 850px;
+    width: 300px; /* Adjust the width as needed */
+    height: 300px; /* Maintain aspect ratio */
+}
+
+.image2 {
+    position: absolute;
+    top: 250px;
+    right: 500px;
+    width: 350px; /* Adjust the width as needed */
+    height: 300px; /* Maintain aspect ratio */
+}
+
 .heart {
     z-index: 999;
     animation: heartFade 6s linear;
