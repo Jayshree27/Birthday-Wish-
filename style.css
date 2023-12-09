@@ -63,7 +63,7 @@ p {
     top: 250px;
     left: 1000px;
     width: 500px; /* Adjust the width as needed */
-    height: auto; /* Maintain aspect ratio */
+    height: 500px; /* Maintain aspect ratio */
 }
 
 .image2 {
